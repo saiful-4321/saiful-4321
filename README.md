@@ -2,8 +2,8 @@
 <h4 align="center">Full stack web developer from Bangladesh</h4>
 
 <div>
-    <img width="45%" float="left" class="img" src="https://github-readme-stats.vercel.app/api?username=saiful-4321&show_icons=true&theme=radical" />
-    <img width="45%" float="right" class="img" src="https://streak-stats.demolab.com?user=saiful-4321&theme=tokyonight&fire=DD0000&width=20" />
+    <img width="49%" float="left" class="img" src="https://github-readme-stats.vercel.app/api?username=saiful-4321&show_icons=true&theme=radical" />
+    <img width="49%" float="right" class="img" src="https://streak-stats.demolab.com?user=saiful-4321&theme=tokyonight&fire=DD0000&width=20" />
 </div>
 
 <div align="center">
