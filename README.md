@@ -1,9 +1,9 @@
 <h2 align="center">Hi 👋, I'm Md. Saiful Islam</h2>
 <h4 align="center">Full stack web developer from Bangladesh</h4>
 
-<div style="display: flex; flex-direction: row;">
-    <img class="img" src="https://github-readme-stats.vercel.app/api?username=saiful-4321&show_icons=true&theme=radical" />
-    <img class="img" src="https://streak-stats.demolab.com?user=saiful-4321&theme=tokyonight&fire=DD0000&width=20" />
+<div>
+    <img width="45%" float="left" class="img" src="https://github-readme-stats.vercel.app/api?username=saiful-4321&show_icons=true&theme=radical" />
+    <img width="45%" float="right" class="img" src="https://streak-stats.demolab.com?user=saiful-4321&theme=tokyonight&fire=DD0000&width=20" />
 </div>
 
 <div align="center">
