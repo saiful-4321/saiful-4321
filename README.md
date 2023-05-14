@@ -16,7 +16,5 @@
         <a href="https://instagram.com/saif_lxp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saif_lxp" height="30" width="40" /></a>
         <a href="https://www.leetcode.com/saif-4321" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="saif-4321" height="30" width="40" /></a>
     </p>
-    <p align="center">
-        <span>Thanks for visiting. You are  <span>![Visitor Count](https://profile-counter.glitch.me/{saiful-4321}/count.svg)<span>visitor in my profile </span>
-    </p>
+        
 </div>
